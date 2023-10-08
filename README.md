@@ -5,11 +5,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroka97&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroka97&layout=compact&langs_count=6&theme=tokyonight"/>
   <br>
-  <img src="https://img.icons8.com/nolan/2x/html-5.png" width="90" alt="HTML5">
-  <img src="https://img.icons8.com/nolan/2x/css3.png" width="90" alt="CSS3">
-  <img src="https://img.icons8.com/nolan/2x/javascript.png" width="90" alt="JavaScript">
-  <img src="https://img.icons8.com/nolan/2x/c.png" width="90" alt="C">
-  <img src="https://img.icons8.com/color/2x/typescript.png" width="90" alt="React">
+  <img src="https://img.icons8.com/color/2x/html-5.png" width="70" alt="HTML5">
+  <img src="https://img.icons8.com/color/2x/css3.png" width="70" alt="CSS3">
+  <img src="https://img.icons8.com/color/2x/javascript.png" width="70" alt="JavaScript">
+  <img src="https://img.icons8.com/color/2x/c.png" width="70" alt="C">
+  <img src="https://img.icons8.com/color/2x/typescript.png" width="70" alt="React">
 </table>
 <br>
 <div> 
