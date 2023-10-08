@@ -5,7 +5,6 @@
 - 🔭 I’m currently working at [Minsait](https://www.minsait.com/pt) as a ticket manager
 
 
-    <br>
 <table>
   <a href="https://github.com/pedroka97">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroka97&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -19,7 +18,7 @@
   <img src="https://img.icons8.com/color/2x/typescript.png" width="70" alt="React">
 </table>
 
-## Contact
+## Contact for more
 
 <div> 
   <a href="https://www.linkedin.com/in/ipedrohenrique/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
